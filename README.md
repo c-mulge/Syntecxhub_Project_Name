@@ -1,101 +1,89 @@
-# 📊 Data Science Internship Tasks – Syntecxhub
+# 📊 Data Science Project
 
-This repository contains the completed work for the **first two tasks** of the **Data Science Internship at Syntecxhub**.
-The tasks focus on building strong foundations in **NumPy** and **Pandas**, which are essential libraries for data analysis and data science workflows.
+This repository contains a **data science analysis project** developed as part of hands-on learning and practical application of data analysis concepts. The project focuses on working with structured data, performing exploratory analysis, visualizing distributions, and deriving meaningful insights.
 
 ---
 
-## 📌 Task 1: NumPy Data Explorer
+## 📌 Project Overview
 
-### 📖 Description
+The goal of this project is to:
 
-The **NumPy Data Explorer** project demonstrates fundamental and intermediate NumPy operations used for efficient numerical computation and data handling.
+* Load and explore structured datasets
+* Perform data inspection and basic statistical analysis
+* Visualize data distributions and compare groups
+* Identify patterns, outliers, skewness, and spread
+* Export analysis outputs for reporting and reuse
 
-### 🔑 Key Concepts Covered
+The workflow follows standard data science practices used in real-world analytical tasks.
 
-* Array creation using different NumPy methods
-* Indexing and slicing (1D and 2D arrays)
-* Mathematical and element-wise operations
-* Axis-wise operations (row-wise and column-wise)
-* Statistical functions (mean, median, min, max, standard deviation)
-* Reshaping arrays and flattening
-* Broadcasting for optimized computations
-* Saving and loading NumPy arrays
-* Performance comparison between NumPy arrays and Python lists
+---
 
-### 🛠 Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Python
-* NumPy
 * Jupyter Notebook
-
-### 📂 File
-
-```
-NumPy_Data_Explorer.ipynb
-```
-
----
-
-## 📌 Task 2: Pandas CSV Reader & Basic Analysis
-
-### 📖 Description
-
-This task focuses on reading structured data from CSV/Excel files and performing basic data exploration and analysis using Pandas.
-
-### 🔑 Key Concepts Covered
-
-* Reading CSV and Excel files into Pandas DataFrames
-* Inspecting datasets using `head()`, `tail()`, `info()`, and data types
-* Computing summary statistics such as mean, median, min, max, and count
-* Filtering rows based on conditions
-* Selecting specific columns and slicing subsets of data
-* Saving filtered and processed data to CSV and Excel files
-
-### 🛠 Tools & Technologies
-
-* Python
 * Pandas
-* Jupyter Notebook
-
-### 📂 File
-
-```
-Pandas_CSV_Reader_and_Basic_Analysis.ipynb
-```
+* NumPy
+* Matplotlib
+* Seaborn
 
 ---
 
-## 🎯 Learning Outcomes
+## 🔍 Key Features
 
-* Gained hands-on experience with **NumPy** for numerical computing
-* Developed practical skills in **data ingestion and exploration** using Pandas
-* Understood the importance of data preprocessing in real-world data science projects
-* Improved efficiency in handling large datasets
+* Data loading from CSV/Excel files
+* Dataset inspection and preprocessing
+* Statistical analysis and summary metrics
+* Distribution analysis using visualizations
+* Group-wise comparison and outlier detection
+* Exporting plots and analysis results
 
 ---
 
 ## 🚀 How to Run
 
-1. Clone the repository
-2. Open Jupyter Notebook
-3. Run the `.ipynb` files cell by cell
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+
+2. Open Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
 
----
-
-## 📌 Acknowledgment
-
-I would like to thank **Syntecxhub** for providing structured and practical internship tasks that support learning through real-world data science scenarios.
+3. Run the notebook cells sequentially.
 
 ---
 
-## 🔗 Author
+## 📈 Outputs
 
-**Channaveer Mulge**
-Data Science Intern
+* Statistical plots (histograms, boxplots, density plots)
+* Processed datasets (CSV/Excel)
+* Text-based interpretations and insights
 
 ---
+
+## 🎯 Learning Outcomes
+
+* Improved understanding of data exploration workflows
+* Hands-on experience with statistical visualization
+* Practical insight into distribution analysis
+* Ability to interpret and communicate data-driven results
+
+---
+
+## 📌 Notes
+
+* The dataset used is for educational and analytical purposes.
+* The notebook is designed to be modular and reusable for similar analyses.
+
+---
+
+## 👤 Author
+
+**Skull**
+Data Science Enthusiast
+
