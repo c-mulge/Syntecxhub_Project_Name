@@ -1,0 +1,6 @@
+
+The dataset indicates that Netflix hosts more movies than Tv shows, reflecting a stronger emphasis on flim based content. 
+A significant increase in content production is observed after 2015, highlighting rapid platform expansion. Certain genres dominate the catlog, 
+suggesting strategic content specialization.
+Runtime analysis reveals that most titles fall within a standard movie length range. 
+Overall the platform demonstrates consistent growth and genre focused diversification.
