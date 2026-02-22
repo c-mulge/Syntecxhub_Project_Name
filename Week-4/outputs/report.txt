@@ -1,0 +1,26 @@
+IPL PLAYER PERFORMANCE ANALYSIS
+
+Total Runs:
+batter
+MS Dhoni     5243
+RG Sharma    6630
+V Kohli      8014
+Name: batsman_runs, dtype: int64
+
+Strike Rate:
+batter
+MS Dhoni     141.13
+RG Sharma    133.00
+V Kohli      133.68
+dtype: float64
+
+Average Runs Per Match:
+batter
+MS Dhoni     23.00
+RG Sharma    26.41
+V Kohli      32.84
+Name: batsman_runs, dtype: float64
+
+Insight:
+V Kohli is the highest run scorer.
+MS Dhoni has the most aggressive batting (highest strike rate).
